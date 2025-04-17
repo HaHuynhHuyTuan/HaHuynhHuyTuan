@@ -1,6 +1,6 @@
 ### Welcome to HaHuynhHuyTuan Github page
 <hr />
-<img src="https://github.com/EF-2000Block10T2/EF-2000Block10T2/blob/main/War Thunder Screenshot 2025.03.06 - 16.36.13.63.png" />
+<img src="https://github.com/HaHuynhHuyTuan/HaHuynhHuyTuan/blob/main/cosplay.jpg" />
 <hr />
 <h3 align="left">About me:</h3> <br />
     - I am HaHuynhHuyTuan, a Java web developer. <br />
