@@ -1,6 +1,6 @@
 ### Welcome to HaHuynhHuyTuan Github page
 <hr />
-<!-- <img src="https://github.com/HaHuynhHuyTuan/HaHuynhHuyTuan/blob/main/cosplay.jpg" /> -->
+ <img src="https://github.com/HaHuynhHuyTuan/HaHuynhHuyTuan/blob/main/cosplay.jpg" /> 
 <hr />
 <h3 align="left">About me:</h3> <br />
     - I am HaHuynhHuyTuan, a Java web developer. <br />
