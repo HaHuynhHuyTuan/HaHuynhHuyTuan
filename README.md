@@ -9,6 +9,7 @@
     - I mostly make websites for assignment Projects. <br />
     - Currently I am looking for an internship <sup>I hope I can get one</sup>.<br />
     - I absolutely love gacha games like: Reveres 1999, Punishing: Gray Raven and Goddess of Victory: Nikke<br/>
+    - I love reading seinen manga like: Vagabond, Berserk and Vinland Saga <br/>
     - I also do frontend because I was forced to learn JavaScript. <br />
     - I do backend using Java + Spring Boot too, I started to use Spring Boot recently. <br />
 
